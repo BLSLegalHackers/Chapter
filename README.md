@@ -13,23 +13,23 @@ Each session will be held from 6pm - 8pm in the Mac Lab (Room C36) in the baseme
  
 Please see below for a description of each session:
  
-###October 8: The Internet and HTML
+### October 8: The Internet and HTML
  
 Learning Outcomes:
 How the Internet works, knowledge of IP addresses and networks, HTML language basics
 Build a simple website to display a resume page and IP law topic page of your choice!
  
-###October 15: Intro to CSS
+### October 15: Intro to CSS
  
 Learning Outcomes:
 Apply simple stylistic changes using CSS to your resume and IP Law webpages.
  
-###October 22: CSS - Filing in the Gaps
+### October 22: CSS - Filing in the Gaps
  
 Learning Outcomes:
 More advanced CSS including external style sheets, reset.css, and The Box Model.
  
-###October 29: Optional Review Session and Wrap Up
+### October 29: Optional Review Session and Wrap Up
  
 Valuable opportunity for consolidation, development, and review.
 
