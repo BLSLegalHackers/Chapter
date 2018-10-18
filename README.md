@@ -56,11 +56,11 @@ Alexei Furs
 
 ## 2018-2018 Executive Board
 
-President, Steven Deolus
-Vice President, Sydney Abualy
-Vice President, Scott Bamberger
-Treasurer, John Shin
-Secretary, Reuben Gottlieb
+1. President, Steven Deolus
+2. Vice President, Sydney Abualy
+3. Vice President, Scott Bamberger
+4. Treasurer, John Shin
+5. Secretary, Reuben Gottlieb
 
 ## Contact
 To Join the Conversation! (https://blslegalhackers.slack.com).
