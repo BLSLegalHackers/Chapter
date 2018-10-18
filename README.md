@@ -63,6 +63,6 @@ Alexei Furs
 5. Secretary, Reuben Gottlieb
 
 ## Contact
-Join the Conversation! [https://blslegalhackers.slack.com].
+Join the Conversation! [https://blslegalhackers.slack.com]
 
 Our Chapter Website is [https://blslegalhackers.github.io/Chapter/](https://blslegalhackers.github.io/Chapter/).
