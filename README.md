@@ -54,7 +54,7 @@ Isabella Theodorobeakos,
 Evan Saunders,
 Alexei Furs
 
-## 2018-2018 Executive Board
+## 2018-2019 Executive Board
 
 1. President, Steven Deolus
 2. Vice President, Sydney Abualy
@@ -63,6 +63,6 @@ Alexei Furs
 5. Secretary, Reuben Gottlieb
 
 ## Contact
-To Join the Conversation! (https://blslegalhackers.slack.com).
+To Join the Conversation! [https://blslegalhackers.slack.com].
 
 Our Chapter Website is [https://blslegalhackers.github.io/Chapter/](https://blslegalhackers.github.io/Chapter/).
