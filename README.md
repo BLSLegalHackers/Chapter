@@ -1,5 +1,7 @@
 # Legal Hackers Brooklyn Law Chapter
 
+![ab_legal hackers_3-02](https://user-images.githubusercontent.com/34072582/47150705-6faf5b00-d2a5-11e8-9c53-1621616c91e5.png)
+
 Space for Meeting Minutes, Upcoming Events, and Membership Details.
 
 ## Coding for Lawyers Series - October 2018
