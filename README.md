@@ -39,24 +39,30 @@ Valuable opportunity for consolidation, development, and review.
 
 The E-Board was very impressed with all of the applications we received. We are confident that these students will represent the organization tremendously and look forward to working with them throughout the course of this academic year.
 
-Benjamin Sklar
-Karlos Horn
-Elise Lindenmayer
-Corey Aronson
-Christopher Foderingham-Garraway
-Marcelle Little Dawes
-Robert Hawkins
-Samantha Noell
-Jordan Khorshad
-Andrew Ramstad
-Jason Schwartz
-Isabella Theodorobeakos
-Evan Saunders
+Benjamin Sklar,
+Karlos Horn,
+Elise Lindenmayer,
+Corey Aronson,
+Christopher Foderingham-Garraway,
+Marcelle Little Dawes,
+Robert Hawkins,
+Samantha Noell,
+Jordan Khorshad,
+Andrew Ramstad,
+Jason Schwartz,
+Isabella Theodorobeakos,
+Evan Saunders,
 Alexei Furs
 
----
+## 2018-2018 Executive Board
+
+President, Steven Deolus
+Vice President, Sydney Abualy
+Vice President, Scott Bamberger
+Treasurer, John Shin
+Secretary, Reuben Gottlieb
 
 ## Contact
-To Join the Conversation! https://blslegalhackers.slack.com
+To Join the Conversation! (https://blslegalhackers.slack.com).
 
 Our Chapter Website is [https://blslegalhackers.github.io/Chapter/](https://blslegalhackers.github.io/Chapter/).
