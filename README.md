@@ -2,6 +2,8 @@
 
 ![ab_legal hackers_3-02](https://user-images.githubusercontent.com/34072582/47150705-6faf5b00-d2a5-11e8-9c53-1621616c91e5.png)
 
+![45356473512_76c67fb545_z](https://user-images.githubusercontent.com/34072582/47191236-20544380-d314-11e8-8617-8a6b717669a3.jpg)
+
 Space for Meeting Minutes, Upcoming Events, and Membership Details.
 
 ## Coding for Lawyers Series - October 2018
