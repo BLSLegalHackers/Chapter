@@ -6,6 +6,12 @@
 
 Space for Meeting Minutes, Upcoming Events, and Membership Details.
 
+## Legal Tech Spotlight - Lunch with Andrea Markstrom (CIO of Blank Rome, LLP)
+![legal tech spotlight 11 6](https://user-images.githubusercontent.com/34072582/47933355-c07ca180-deaa-11e8-9364-25a2e1c92318.png)
+
+On Tuesday, November 6, the Legal Hackers Brooklyn Law Chapter looks forward to welcoming Andrea Markstrom of Blank Rome LLP to Brooklyn Law School for our first Legal Tech Spotlight event! Ms. Markstrom serves as Blank Rome’s Chief Information Officer and is responsible for leading firm-wide technology and security initiatives across all of Blank Rome’s practices and geographies. Attendees will learn about Ms. Markstrom’s responsibilities to strategically leverage the firm’s technology, leadership, and administrative teams and to expand Blank Rome’s technology offerings for its clients, professional staff, and attorneys. Don’t miss this opportunity to gain valuable tips to market yourself as an innovative attorney and learn how to effectively incorporate tech into your practice! Join us for lunch in room 502 from 12:45pm - 1:55pm.
+ 
+
 ## Coding for Lawyers Series - October 2018
 ![coding for lawyers oct 2018-1](https://user-images.githubusercontent.com/34072582/47150574-f31c7c80-d2a4-11e8-8fc1-4e50d4e42cbb.png)
 
