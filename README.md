@@ -7,7 +7,12 @@
 Space for Meeting Minutes, Upcoming Events, and Membership Details.
 
 ## Legal Hackers Hack Summit 2019
+### Monday, January 28th (5PM - 6PM)
 ![hack summit 19 flyer](https://user-images.githubusercontent.com/34072582/51286922-2a451b80-19c3-11e9-9a1a-a731a58eb75c.png)
+
+## Legal Hackers Tech Fireside Chat
+### Monday, February 4th (5PM - 7PM)
+![legal hackers fireside chat flyer vr 2](https://user-images.githubusercontent.com/34072582/51286962-56f93300-19c3-11e9-8aba-0496c995db81.png)
 
 ## Legal Tech Spotlight - Lunch with Andrea Markstrom (CIO of Blank Rome, LLP)
 ![legal tech spotlight 11 6](https://user-images.githubusercontent.com/34072582/47933355-c07ca180-deaa-11e8-9364-25a2e1c92318.png)
